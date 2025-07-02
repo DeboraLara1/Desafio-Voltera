@@ -46,7 +46,6 @@ A API agify.io possui um limite de 100 requisições por dia. Use com moderaçã
 - `src/routes/+page.svelte`: Componente principal da aplicação
 - `src/routes/+page.ts`: Função load() que consulta a API
 - `src/app.html`: Template HTML base
-- `static/`: Arquivos estáticos
 
 ## Requisitos Atendidos
 
