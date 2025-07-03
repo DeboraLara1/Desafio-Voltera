@@ -185,7 +185,7 @@
 	}
 
 	h1 {
-		font-size: 2.5rem;
+		font-size: 2.3rem;
 		color: #47b408;
 		margin-bottom: 10px;
 		font-weight: 700;
